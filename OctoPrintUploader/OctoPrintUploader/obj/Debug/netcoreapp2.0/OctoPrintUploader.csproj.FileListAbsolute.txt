@@ -1,0 +1,11 @@
+C:\Users\Ankush Vangari\source\repos\OctoPrintUploader\OctoPrintUploader\bin\Debug\netcoreapp2.0\OctoPrintUploader.deps.json
+C:\Users\Ankush Vangari\source\repos\OctoPrintUploader\OctoPrintUploader\bin\Debug\netcoreapp2.0\OctoPrintUploader.runtimeconfig.json
+C:\Users\Ankush Vangari\source\repos\OctoPrintUploader\OctoPrintUploader\bin\Debug\netcoreapp2.0\OctoPrintUploader.runtimeconfig.dev.json
+C:\Users\Ankush Vangari\source\repos\OctoPrintUploader\OctoPrintUploader\bin\Debug\netcoreapp2.0\OctoPrintUploader.dll
+C:\Users\Ankush Vangari\source\repos\OctoPrintUploader\OctoPrintUploader\bin\Debug\netcoreapp2.0\OctoPrintUploader.pdb
+C:\Users\Ankush Vangari\source\repos\OctoPrintUploader\OctoPrintUploader\obj\Debug\netcoreapp2.0\OctoPrintUploader.csprojAssemblyReference.cache
+C:\Users\Ankush Vangari\source\repos\OctoPrintUploader\OctoPrintUploader\obj\Debug\netcoreapp2.0\OctoPrintUploader.csproj.CoreCompileInputs.cache
+C:\Users\Ankush Vangari\source\repos\OctoPrintUploader\OctoPrintUploader\obj\Debug\netcoreapp2.0\OctoPrintUploader.AssemblyInfoInputs.cache
+C:\Users\Ankush Vangari\source\repos\OctoPrintUploader\OctoPrintUploader\obj\Debug\netcoreapp2.0\OctoPrintUploader.AssemblyInfo.cs
+C:\Users\Ankush Vangari\source\repos\OctoPrintUploader\OctoPrintUploader\obj\Debug\netcoreapp2.0\OctoPrintUploader.dll
+C:\Users\Ankush Vangari\source\repos\OctoPrintUploader\OctoPrintUploader\obj\Debug\netcoreapp2.0\OctoPrintUploader.pdb

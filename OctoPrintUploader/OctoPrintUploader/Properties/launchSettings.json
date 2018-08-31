@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OctoPrintUploader": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Ankush"
+    }
+  }
+}
