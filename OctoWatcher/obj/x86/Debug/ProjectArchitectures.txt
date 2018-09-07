@@ -1,1 +1,0 @@
-C:\Ankush\VisualStudioProjects\OctoWatcher\OctoWatcher\OctoWatcher.csproj;x86
